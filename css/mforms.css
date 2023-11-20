@@ -1,0 +1,51 @@
+.form-div{
+    text-align: center;
+}
+.form-element{
+    font-family: monospace;
+    color: cornflowerblue;
+    font-size: large;
+    padding: 5px 0 5px 0;
+}
+.tf{
+    box-sizing: border-box;
+    padding: 0 10px 0 10px;
+    border-radius: 15px;
+    font-size: large;
+    border: 1px solid lightblue;
+    height: 28px;
+}
+
+label{
+    display: inline-block;    
+    font-size: large;
+    padding-bottom: 5px;
+}
+
+select{
+    font-size: large;
+    height: 28px;
+    border: 1px solid lightblue;
+    border-radius: 15px;
+    
+    padding: 0 10px 0 10px;
+}
+
+.btn{
+    cursor: pointer;
+    border: 1px solid lightblue;
+    background: lightblue;
+    color: cornflowerblue;
+    height: 28px;
+}
+
+.btn:hover{
+    background: lightblue;
+    color: cornflowerblue;
+}
+
+.form-link{
+    color: lightblue;
+    text-decoration: none;
+   
+}
